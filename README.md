@@ -1,4 +1,4 @@
-# StellarisAnotherAnimatedAvaliMod
+# Another Animated Avali
 
 Mod that adds animated avali portraits in Stellaris
 
