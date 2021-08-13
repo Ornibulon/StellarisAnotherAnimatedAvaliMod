@@ -1,0 +1,65 @@
+##############################################################
+###	PORTRAITS SETTINGS
+###
+### Which portraits are used is set in 
+### common\species_classes\00_species_classes.txt
+###
+###	This file configures how portraits and planet backgrounds are built.
+###	Default position orientation is lower left.
+##############################################################
+
+
+portraits = {
+	
+	# Naked Avali
+	AAA-avali1 = {	entity = "portrait_AAA-avali_01_entity"	clothes_selector = "no_texture" hair_selector = "no_texture"	greeting_sound = "avian_01_greetings" 
+			character_textures = {
+					"gfx/models/portraits/avali/AAA-avali_01_default.dds"
+					"gfx/models/portraits/avali/AAA-avali_01_blue.dds"
+					"gfx/models/portraits/avali/AAA-avali_01_green.dds"
+					"gfx/models/portraits/avali/AAA-avali_01_orange.dds"
+					"gfx/models/portraits/avali/AAA-avali_01_purple.dds"
+
+					"gfx/models/portraits/avali/AAA-avali_02_nocolor.dds"
+					"gfx/models/portraits/avali/AAA-avali_02_blue.dds"
+					"gfx/models/portraits/avali/AAA-avali_02_green.dds"
+					"gfx/models/portraits/avali/AAA-avali_02_orange.dds"
+					"gfx/models/portraits/avali/AAA-avali_02_purple.dds"
+
+					"gfx/models/portraits/avali/AAA-avali_03_nocolor.dds"
+					"gfx/models/portraits/avali/AAA-avali_03_blue.dds"
+					"gfx/models/portraits/avali/AAA-avali_03_green.dds"
+					"gfx/models/portraits/avali/AAA-avali_03_orange.dds"
+					"gfx/models/portraits/avali/AAA-avali_03_purple.dds"
+				}
+	}
+
+	# Clothed Avali
+	AAA-avali2 = {	entity = "portrait_AAA-avali_02_entity"	clothes_selector = "AAA-avali_clothes" hair_selector = "no_texture"	greeting_sound = "avian_01_greetings" 
+			character_textures = {
+					"gfx/models/portraits/avali/AAA-avali_01_default.dds"
+					"gfx/models/portraits/avali/AAA-avali_01_blue.dds"
+					"gfx/models/portraits/avali/AAA-avali_01_green.dds"
+					"gfx/models/portraits/avali/AAA-avali_01_orange.dds"
+					"gfx/models/portraits/avali/AAA-avali_01_purple.dds"
+
+					"gfx/models/portraits/avali/AAA-avali_02_nocolor.dds"
+					"gfx/models/portraits/avali/AAA-avali_02_blue.dds"
+					"gfx/models/portraits/avali/AAA-avali_02_green.dds"
+					"gfx/models/portraits/avali/AAA-avali_02_orange.dds"
+					"gfx/models/portraits/avali/AAA-avali_02_purple.dds"
+
+					"gfx/models/portraits/avali/AAA-avali_03_nocolor.dds"
+					"gfx/models/portraits/avali/AAA-avali_03_blue.dds"
+					"gfx/models/portraits/avali/AAA-avali_03_green.dds"
+					"gfx/models/portraits/avali/AAA-avali_03_orange.dds"
+					"gfx/models/portraits/avali/AAA-avali_03_purple.dds"
+				}
+	}
+	
+}
+
+
+portrait_groups = {
+
+}

@@ -1,0 +1,10 @@
+	animation = {
+		name = "AAA-avali_01_happy_animation"
+		#file = "AAA-avali_01_portrait_happy.anim"
+		file = "AAA-avali.anim"
+	}
+
+	animation = {
+		name = "AAA-avali_02_happy_animation"
+		file = "AAA-avali2.anim"
+	}

@@ -1,0 +1,42 @@
+# Generated species derive their names from here
+
+### AVALI
+
+
+Avali = {
+	Avali = {
+		language = "l_simp_chinese"
+		name = 阿拉里
+		plural = 阿拉里
+		home_planet = 阿拉里
+		home_system = 阿拉尔
+		name_list = "HUMAN3"
+	}
+
+	Avalonian = {
+		language = "l_simp_chinese"
+		name = 阿拉里
+		plural = 阿拉里
+		home_planet = 阿拉里
+		home_system = 阿拉尔
+		name_list = "HUMAN3"
+	}
+
+	Illuminati = {
+		language = "l_simp_chinese"
+		name = 阿拉里
+		plural = 阿拉里
+		home_planet = 阿拉里
+		home_system = 阿拉尔
+		name_list = "HUMAN3"
+	}
+
+	Birb = {
+		language = "l_simp_chinese"
+		name = 阿拉里
+		plural = 阿拉里
+		home_planet = 阿拉里
+		home_system = 阿拉尔
+		name_list = "HUMAN3"
+	}
+}
