@@ -1,0 +1,8 @@
+aaavali = {
+	species_class = AAA
+
+	portraits = {
+		"AAA-avali1"
+		"AAA-avali2"
+	}
+}

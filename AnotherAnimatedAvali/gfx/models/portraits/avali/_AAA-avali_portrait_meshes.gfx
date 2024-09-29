@@ -2,7 +2,6 @@ objectTypes = {
 	
 	pdxmesh = {
 		name = "portrait_AAA-avali_01_mesh"
-		#file = "gfx/models/portraits/avali/AAA-avali_01_portrait.mesh"
 		file = "gfx/models/portraits/avali/AAA-avali.mesh"
 		animation = { id = "idle"	type = "AAA-avali_01_happy_animation" }
 		scale = 1.0

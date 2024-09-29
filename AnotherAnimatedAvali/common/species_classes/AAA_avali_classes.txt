@@ -1,0 +1,15 @@
+AAA = {
+	archetype = BIOLOGICAL
+
+	possible = { 
+		authority = { 
+			NOT = { 
+				value = auth_machine_intelligence 
+				text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE
+			}
+		}
+	}
+
+	graphical_culture = AAA_avali
+	move_pop_sound_effect = "avian_pops_move"
+}

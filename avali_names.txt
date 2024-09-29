@@ -1,0 +1,29 @@
+# Generated species derive their names from here
+
+### AVALI
+
+AAA = {
+	Avali = {
+		name = SPEC_Avali
+		plural = SPEC_Avali_pl
+		home_planet = SPEC_Avali_planet
+		home_system = SPEC_Avali_system
+		name_list = "HUMAN3"
+	}	
+	
+	Illuminati = {
+		name = SPEC_Illuminati
+		plural = SPEC_Illuminati_pl
+		home_planet = SPEC_Illuminati_planet
+		home_system = SPEC_Illuminati_system
+		name_list = "HUMAN3"
+	}	
+	
+	Birb = {
+		name = SPEC_Birb
+		plural = SPEC_Birb_pl
+		home_planet = SPEC_Birb_planet
+		home_system = SPEC_Birb_system
+		name_list = "HUMAN3"
+	}
+}
